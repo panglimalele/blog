@@ -6,10 +6,28 @@
     <description>Recent content on Goldies Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Apr 2018 22:04:28 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Apr 2018 17:31:49 +0700</lastBuildDate>
     
 	<atom:link href="https://goldiestudio.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pos2</title>
+      <link>https://goldiestudio.me/pos2/</link>
+      <pubDate>Tue, 10 Apr 2018 17:31:49 +0700</pubDate>
+      
+      <guid>https://goldiestudio.me/pos2/</guid>
+      <description>Cek kedua mas</description>
+    </item>
+    
+    <item>
+      <title>Postkedua</title>
+      <link>https://goldiestudio.me/postkedua/</link>
+      <pubDate>Tue, 10 Apr 2018 17:27:26 +0700</pubDate>
+      
+      <guid>https://goldiestudio.me/postkedua/</guid>
+      <description>Yang Kedua</description>
+    </item>
     
     <item>
       <title>Firstpost</title>
